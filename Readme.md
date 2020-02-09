@@ -11,7 +11,7 @@ Run `./user1` in one terminal tab and `./user2` in the other .. and start sendin
 
 ## Demo
 ### user1
-![user1](https://github.com/Norris1z/shared_memory_chat/images/user1.png)
+![user1](https://github.com/Norris1z/shared_memory_chat/blob/master/images/user1.png)
 
 ### user2
-![user2](https://github.com/Norris1z/shared_memory_chat/images/user2.png)
+![user2](https://github.com/Norris1z/shared_memory_chat/blob/master/images/user2.png)
